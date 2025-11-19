@@ -1,4 +1,4 @@
-# Hi, I'm Roshan 👋
+# Hi, I'm Vinay Nareddy 👋
 **Data Analytics & Engineering** · Power BI · SQL · Snowflake · Python  
 MS ITM (Data Science & Applied AI) — Illinois Institute of Technology
 
