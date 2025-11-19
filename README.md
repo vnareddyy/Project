@@ -30,7 +30,6 @@ SQL · Python · Power BI · Snowflake · GCP · ETL · Pandas · NumPy · sciki
 
 ---
 
-### Want to test a demo?
-Check the pinned repositories on my profile or email: roshankotha257@gmail.com
+
 
 > *“Make data useful, not just pretty.”*
